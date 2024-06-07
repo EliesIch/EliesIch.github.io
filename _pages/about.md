@@ -2,7 +2,7 @@
 layout: about
 title: Top
 permalink: /
-subtitle: <a href='wangjing@s.okayama-u.ac.jp'> wangjing@s.okayama-u.ac.jp</a>
+subtitle: <a href='wangjing@s.okayama-u.ac.jp'>wangjing@s.okayama-u.ac.jp</a>
 
 profile:
   align: right
