@@ -2,7 +2,7 @@
 layout: about
 title: Top
 permalink: /
-subtitle: <a href='http://www.riis.okayama-u.ac.jp/'>RIIS, Okayama University</a>
+subtitle: <a href='http://www.riis.okayama-u.ac.jp/'> RIIS, Okayama University</a>
 
 profile:
   align: right
