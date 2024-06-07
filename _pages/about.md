@@ -2,7 +2,7 @@
 layout: about
 title: Top
 permalink: /
-subtitle: <a href='wangjing@s.okayama-u.ac.jp'>wangjing@s.okayama-u.ac.jp</a>
+subtitle: 云在青天水在瓶
 
 profile:
   align: right
