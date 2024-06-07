@@ -2,14 +2,14 @@
 layout: about
 title: Top
 permalink: /
-subtitle: <a href='http://www.riis.okayama-u.ac.jp/'> RIIS, Okayama University</a>
+subtitle: <a href='wangjing@s.okayama-u.ac.jp'> wangjing@s.okayama-u.ac.jp</a>
 
 profile:
   align: right
   image: dog.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Okayama University</p>
+    <a href='http://www.riis.okayama-u.ac.jp/'> RIIS, Okayama University</a>
     <p>3-1-1, Tsushima naka, kita-ku, Okayama, Japan</p>
 
 news: true # includes a list of news items
