@@ -17,4 +17,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-A PhD student in Okayama University.
+I am a PhD student at Okayama University, specializing in Atomic, Molecular, and Optical (AMO) Physics and Particle Physics. My research focuses on the search for light dark matter using atomic transitions of Cesium. For more details about my work, feel free to explore my blog and publications.
+
+In my free time, I enjoy playing mahjong and traveling.
