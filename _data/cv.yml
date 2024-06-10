@@ -28,7 +28,7 @@
 - title: Skills
   type: nested_list
   contents:
-    - title: Physics (Master)
+    - title: Physics
       items:
         - AMO Physics
         - Particle Physics
@@ -36,4 +36,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Mahjong, Traveling
+    - Hobbies: Mahjong, Traveling, History
