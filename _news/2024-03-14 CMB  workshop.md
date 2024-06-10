@@ -5,4 +5,4 @@ date: 2023-11-29 09:00:00-0000
 tags: presentations
 inline: true
 ---
-Presented research at the CMB 2023 workshop in Seoul, Korea.
+Presentation at the CMB 2023 workshop in Seoul, Korea.

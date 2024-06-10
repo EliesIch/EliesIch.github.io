@@ -5,4 +5,4 @@ date: 2024-03-14 09:00:00-0000
 tags: presentations
 inline: true
 ---
-Presented research at the FPUA 2024 workshop in Okayama, Japan.
+Poster presentation at the FPUA 2024 workshop in Okayama, Japan.
