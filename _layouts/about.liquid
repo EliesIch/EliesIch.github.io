@@ -1,3 +1,4 @@
+---
 layout: default
 ---
 <div class="post">
@@ -29,7 +30,7 @@ layout: default
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
-      <h2>
+      <h2 class="section-title">
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
@@ -37,7 +38,7 @@ layout: default
 
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
-      <h2>
+      <h2 class="section-title">
         <a href="{{ '/blog/' | relative_url }}" style="color: inherit">Latest posts</a>
       </h2>
       {% include latest_posts.liquid %}
@@ -45,7 +46,7 @@ layout: default
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
-      <h2>
+      <h2 class="section-title">
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected publications</a>
       </h2>
       {% include selected_papers.liquid %}
@@ -90,6 +91,11 @@ layout: default
   .desc {
     font-size: 1.5em; /* Enlarge subtitle */
     color: #666;
+  }
+
+  .section-title {
+    font-size: 1.75em; /* Enlarge section titles */
+    margin-top: 1em;
   }
 
   .post article {
