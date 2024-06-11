@@ -15,42 +15,22 @@
   contents:
   - title: PhD Student (Currently D3)
     institution: Okayama University, Okayama, Japan
-    year: 10.2021 - Present
+    year: 2021 - Present
     description:
     - Thesis Project: Dark Matter Search With Coherent Atoms.
   - title: Master of Science
     institution: Okayama University, Okayama, Japan
-    year: 10.2019 - 09.2021
+    year: 2019 - 2021
     description:
     - GPA: 4.23/4.5
     - Courses: Particle Physics, Cosmology, Atomic and Molecular Physics, Advanced Quantum Mechanics, Superconductivity.
     - Thesis Project: Dark Matter Search With Atoms or Molecules.
   - title: Bachelor of Engineering
     institution: Lanzhou University, Lanzhou, China
-    year: 09.2015 - 07.2019
+    year: 2015 - 2019
     description:
     - Courses: Analytical Mechanics, Quantum Mechanics, Statistical Mechanics, Electrodynamics, Nuclear Physics, Electronics, Mathematical Methods of Physics, C Programming.
     - Thesis Project: Size effect of nanoparticles on laser induced breakdown spectroscopy enhancement.
-
-- title: Experience
-  type: time_table
-  contents:
-  - title: Dark Matter Search With Atoms or Molecules
-    institution: Okayama University, Japan
-    year: 01.2021 - Present
-    description:
-    - Master's thesis project about dark matter detection with coherent atomic/molecular transition, involving particle physics and atomic, molecular, and optical physics.
-    - Built a simulation algorithm with Python to understand the dynamics of the atomic system.
-    - Dark matter signal rate estimation by perturbative calculation.
-    - Laser System development.
-    - Cold atom target preparation with Cs 3D MOT.
-    - Cesium forbidden transition measurement (Current work).
-  - title: Lowest Excited State Study of Th229
-    institution: SPring-8, Japan
-    year: November 2020
-    description:
-    - Thorium-229 (Th229) has the lowest energy excited state and could be utilized for an ultra-precise "nuclear clock".
-    - Built X-ray experimental equipment for background study of this project. Mastered the entire process from design and construction to experimental data processing.
 
 - title: Extracurricular Activity
   type: time_table
