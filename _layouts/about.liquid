@@ -7,7 +7,7 @@ layout: default
       <div class="profile">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-          {% assign profile_image_class = 'img-fluid rounded-circle profile-image' %}
+          {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
           {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
           {%
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image cache_bust=true
@@ -30,7 +30,7 @@ layout: default
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
-      <h2 class="section-title">
+      <h2>
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
@@ -38,7 +38,7 @@ layout: default
 
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
-      <h2 class="section-title">
+      <h2>
         <a href="{{ '/blog/' | relative_url }}" style="color: inherit">Latest posts</a>
       </h2>
       {% include latest_posts.liquid %}
@@ -46,7 +46,7 @@ layout: default
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
-      <h2 class="section-title">
+      <h2>
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected publications</a>
       </h2>
       {% include selected_papers.liquid %}
@@ -74,9 +74,9 @@ layout: default
     margin-bottom: 20px;
   }
 
-  .profile-image {
-    width: 150px; /* Adjust size as needed */
-    height: 150px; /* Adjust size as needed */
+  .img-fluid.rounded-circle {
+    width: 150px; /* Adjust the size as needed */
+    height: 150px;
     object-fit: cover;
   }
 
@@ -85,20 +85,21 @@ layout: default
   }
 
   .post-title {
-    font-size: 2.5em; /* Enlarge name */
+    font-size: 2.5em; /* Increased font size */
   }
 
   .desc {
-    font-size: 1.5em; /* Enlarge subtitle */
+    font-size: 1.5em; /* Increased font size */
     color: #666;
-  }
-
-  .section-title {
-    font-size: 1.75em; /* Enlarge section titles */
-    margin-top: 1em;
   }
 
   .post article {
     text-align: left;
+    font-size: 1.2em; /* Increased font size */
+    line-height: 1.6;
+  }
+
+  h2 {
+    font-size: 1.8em; /* Increased font size for headings */
   }
 </style>
