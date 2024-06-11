@@ -3,6 +3,8 @@
   contents:
   - name: Full Name
     value: Jing WANG
+  - name: Status
+    value: PhD student (3rd year) at Okayama University
   - name: Email
     value: wangjing@s.okayama-u.ac.jp
   - name: Website
@@ -13,19 +15,19 @@
   contents:
   - title: PhD Student (Currently D3)
     institution: Okayama University, Okayama, Japan
-    year: October 2021 - Present
+    year: 10.2021 - Present
     description:
     - Thesis Project: Dark Matter Search With Coherent Atoms.
   - title: Master of Science
     institution: Okayama University, Okayama, Japan
-    year: October 2019 - September 2021
+    year: 10.2019 - 09.2021
     description:
     - GPA: 4.23/4.5
     - Courses: Particle Physics, Cosmology, Atomic and Molecular Physics, Advanced Quantum Mechanics, Superconductivity.
     - Thesis Project: Dark Matter Search With Atoms or Molecules.
   - title: Bachelor of Engineering
     institution: Lanzhou University, Lanzhou, China
-    year: September 2015 - July 2019
+    year: 09.2015 - 07.2019
     description:
     - Courses: Analytical Mechanics, Quantum Mechanics, Statistical Mechanics, Electrodynamics, Nuclear Physics, Electronics, Mathematical Methods of Physics, C Programming.
     - Thesis Project: Size effect of nanoparticles on laser induced breakdown spectroscopy enhancement.
@@ -35,7 +37,7 @@
   contents:
   - title: Dark Matter Search With Atoms or Molecules
     institution: Okayama University, Japan
-    year: January 2021 - Present
+    year: 01.2021 - Present
     description:
     - Master's thesis project about dark matter detection with coherent atomic/molecular transition, involving particle physics and atomic, molecular, and optical physics.
     - Built a simulation algorithm with Python to understand the dynamics of the atomic system.
@@ -49,66 +51,24 @@
     description:
     - Thorium-229 (Th229) has the lowest energy excited state and could be utilized for an ultra-precise "nuclear clock".
     - Built X-ray experimental equipment for background study of this project. Mastered the entire process from design and construction to experimental data processing.
-  - title: Nuclear Battery Development
-    institution: Lanzhou University, China
-    year: March 2015 - December 2015
-    description:
-    - Contributed to the calculation of energy conversion efficiency of composite dynamic radioisotope battery based on nanomaterials.
-
-- title: Presentations
-  type: time_table
-  contents:
-  - title: FPUA Workshop 2024
-    institution: Okayama, Japan
-    year: March 2024
-    description:
-    - Poster Presenter for "Dark Matter Search With Coherent Atoms".
-    - URL: https://conference-indico.kek.jp/event/261/
-  - title: CMB Workshop 2023
-    institution: Seoul, Korea
-    year: November 2023
-    description:
-    - Presenter for "Dark Matter Search With Coherent Atoms".
-    - URL: https://cds.kuhep.kreonet.net:7443/event/1/contributions/12/
-  - title: Kashiwa Dark Matter Conference 2023
-    institution: Kashiwa, Japan
-    year: December 2023
-    description:
-    - Presenter for "Dark Matter Search With Coherent Atoms".
-    - URL: https://2023.kashiwa-darkmatter-symposia.org/
-  - title: JPS 2024 Spring Meeting
-    institution: Online
-    year: March 2024
-    description:
-    - Presenter for "Dark Matter Search With Coherent Atoms".
-  - title: JPS 2023 Autumn Meeting
-    institution: Tohoku University, Japan
-    year: September 2023
-    description:
-    - Presenter for "Laser Induced Fluorescence Spectroscopy of the Cs 8P-6P E2 Transition".
-  - title: JPS 2022 Spring Meeting
-    institution: Online
-    year: March 2022
-    description:
-    - Presenter for "Dark Matter Search With Coherent Atoms".
 
 - title: Extracurricular Activity
   type: time_table
   contents:
   - title: Sorbonne University Internship Grant
     institution: Sorbonne University, France
-    year: September 2022 - December 2022
+    year: 09.2022 - 12.2022
     description:
     - Exchange student in Sorbonne University, joined the XeLab Project and worked with Prof. Luca Scotto Lavina.
     - Internship report: https://chenevier-ura-okayama-univ.com/2023/05/19/the-search-for-the-mysterious-dark-matter-jing-tells-us-about-his-experience-between-china-japan-okayama-and-france-su/
   - title: Sakura Science Program
     institution: Okayama University, Japan
-    year: November 2017
+    year: 11.2017
     description:
     - Member of an exchange program held by Japan Science and Technology Agency.
   - title: Summer School of CAS (Chinese Academy of Sciences)
     institution: University of CAS, China
-    year: May 2017 - June 2017
+    year: 05.2017 - 06.2017
     description:
     - Learned basic knowledge of particle physics and ROOT; visited the BEPC and BESIII in the Institute of High Energy Physics, Chinese Academy of Sciences.
     - Contributed to the research of the double charm baryon Ξ++.
@@ -127,3 +87,5 @@
     value: Laser Operation, 3D MOT generation, X-Ray Operation, Vacuum Techniques, Data analysis by Python and ROOT.
   - name: Interests
     value: Atomic, molecular, and optical physics, Cold atoms, Particle Physics, Cosmology
+  - name: Hobbies
+    value: Mahjong, traveling
