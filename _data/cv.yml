@@ -13,25 +13,15 @@
 - title: Education
   type: time_table
   contents:
-  - title: PhD Student (Currently D3)
+  - title: PhD (Currently D3)
     institution: Okayama University, Okayama, Japan
     year: 2021 - Present
-    description:
-    - Thesis Project: Dark Matter Search With Coherent Atoms.
   - title: Master of Science
     institution: Okayama University, Okayama, Japan
     year: 2019 - 2021
-    description:
-    - GPA: 4.23/4.5
-    - Courses: Particle Physics, Cosmology, Atomic and Molecular Physics, Advanced Quantum Mechanics, Superconductivity.
-    - Thesis Project: Dark Matter Search With Atoms or Molecules.
   - title: Bachelor of Engineering
     institution: Lanzhou University, Lanzhou, China
     year: 2015 - 2019
-    description:
-    - Courses: Analytical Mechanics, Quantum Mechanics, Statistical Mechanics, Electrodynamics, Nuclear Physics, Electronics, Mathematical Methods of Physics, C Programming.
-    - Thesis Project: Size effect of nanoparticles on laser induced breakdown spectroscopy enhancement.
-
 - title: Extracurricular Activity
   type: time_table
   contents:
@@ -40,7 +30,6 @@
     year: 09.2022 - 12.2022
     description:
     - Exchange student in Sorbonne University, joined the XeLab Project and worked with Prof. Luca Scotto Lavina.
-    - Internship report: https://chenevier-ura-okayama-univ.com/2023/05/19/the-search-for-the-mysterious-dark-matter-jing-tells-us-about-his-experience-between-china-japan-okayama-and-france-su/
   - title: Sakura Science Program
     institution: Okayama University, Japan
     year: 11.2017
