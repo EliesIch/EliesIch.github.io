@@ -6,7 +6,7 @@ subtitle: 云在青天水在瓶
 
 profile:
   align: right
-  image: dog.jpg
+  image: wangjing.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <a href='http://www.riis.okayama-u.ac.jp/'> RIIS, Okayama University</a>
